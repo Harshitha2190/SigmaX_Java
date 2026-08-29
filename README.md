@@ -102,8 +102,3 @@ job-ready software engineer
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🎯 Final Goal
-
-3rd Year → Skills → Projects → Internship → Placements → Software Engineer → AI-Integrated Software Engineer
-
-🚀 One day at a time. One problem at a time.
