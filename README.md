@@ -1,11 +1,9 @@
 SigmaX_Java
 My complete SigmaX journey — DSA, Java, Full-Stack Development, SQL, AI, Core CS, DevOps, projects, aptitude & amp, placement preparation. 🚀
 Welcome to my complete learning journey through the SigmaX program.
-
 This repository documents everything I learn, build, practice, and
 implement throughout the course — from Java & DSA fundamentals to
 AI-integrated software development and placement preparation.
-
 My goal is to become placement-ready by 2027 with strong foundations in:
 
 - ☕ Java & Object-Oriented Programming
