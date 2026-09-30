@@ -1,14 +1,13 @@
 import java.util.*;
 public class product{
-    public static void main(String args[]){
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Enter value of a:");
-        int a = sc.nextInt();
-        System.out.println("Enter value of b:");
-        int b = sc.nextInt();
-        int product = a*b;
-        System.out.println("The Product of a and b is: \n"+product);
-
+    public static int multiply(int a,int b){
+        int mul = a*b;
+      return mul;
     }
-
+    public static void main(String args[]){
+        int a=5;
+        int b=3;
+        int prod=multiply(a,b);
+        System.out.println("result=" +prod);
+    }
 }
